@@ -6,8 +6,17 @@ This project was created for learning, development, and experimentation with PHP
 
 ---
 
+## 🖥️ Preview
+
+### 🔐 Login Interface
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/CuteXploit/BLACKVEIL/refs/heads/main/Screenshot%202026-09-25%20182532.png" width="80%">
+</div>
+
+### 💻 Main Interface
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/CuteXploit/BLACKVEIL/refs/heads/main/Screenshot%202026-09-25%20182551.png" width="80%">
 </div>
 
